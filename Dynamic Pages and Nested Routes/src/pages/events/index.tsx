@@ -35,20 +35,3 @@ export default function Events() {
         </div>
     )
 }
-
-// import Link from 'next/link';
-
-// const EventList = () => (
-//   <>
-//     <h1>List of Events</h1>
-//     <ul>
-//       <li>
-//         <Link href="/events/1">
-//           <a>First Event</a>
-//         </Link>
-//       </li>
-//     </ul>
-//   </>
-// );
-
-// export default EventList;
