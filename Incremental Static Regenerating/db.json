@@ -1,0 +1,60 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "model": "Civic",
+            "make": "Honda",
+            "year": 2021,
+            "color": "Black",
+            "mileage": 5000,
+            "price": 28000,
+            "url": "https://media.motorfuse.com/img.cfm/type/3/img/7463B0414C7EA1A8DB8DDDC4B52B747BC89664AE39F9022358935798"
+        },
+        {
+            "id": 2,
+            "model": "Accord",
+            "make": "Honda",
+            "year": 2022,
+            "color": "Red",
+            "mileage": 2000,
+            "price": 32000,
+            "url": "https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/df6Gl0xSXyu6zMrPmj0f2DBYBMml47QOwjgwrYfO.jpg"
+        },
+        {
+            "id": 3,
+            "model": "Camry",
+            "make": "Toyota",
+            "year": 2020,
+            "color": "White",
+            "mileage": 10000,
+            "price": 25000,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS291sGHA8kdCp_m6yNJdeGxEBfjC-FkKLH35dVOO3n6Q&s"
+        }
+    ],
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Michael Brown",
+            "phone": "+1234567890",
+            "email": "michael.brown@mail.com",
+            "address": "123 Main Street, City, Country",
+            "notes": "Manager."
+        },
+        {
+            "id": 2,
+            "name": "Emma Johnson",
+            "phone": "+1987654321",
+            "email": "emma.johnson@gmail.com",
+            "address": "456 Elm Avenue, Town, Country",
+            "notes": "Founder."
+        },
+        {
+            "id": 3,
+            "name": "David Wilson",
+            "phone": "+1122334455",
+            "email": "david.wilson@list.ru",
+            "address": "789 Oak Drive, Village, Country",
+            "notes": "Some Random Dude."
+        }
+    ]
+}
