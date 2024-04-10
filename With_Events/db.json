@@ -1,0 +1,114 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Patrick's Day Party",
+            "type": "holiday",
+            "url": "https://www.rent.com/blog/wp-content/uploads/2020/02/st_patricks_day_party_rent_hero.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Charity Gala",
+            "type": "charity",
+            "url": "https://blog.justgiving.com/wp-content/uploads/2020/09/Charity-gala.png"
+        },
+        {
+            "id": 3,
+            "name": "Bip-Bup",
+            "type": "networking",
+            "url": "https://www.jcu.edu.au/__data/assets/image/0007/1974742/standout_ss151766546.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Charity Art",
+            "type": "charity",
+            "url": "https://example.com/charity-gala-2"
+        },
+        {
+            "id": 5,
+            "name": "Niti Event",
+            "type": "networking",
+            "url": "https://cdn-robertscentre.pressidium.com/wp-content/uploads/2016/10/Hosting-Successful-Networking-Events-Blog-1-700x535.png"
+        },
+        {
+            "id": 6,
+            "name": "Animal charity",
+            "type": "charity",
+            "url": "https://cimages.milaap.org/milaap/image/upload/v1638932246/production/images/campaign/426503/iz6eaivhmkptk8m9orsm_1638932250.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Novruz",
+            "type": "holiday",
+            "url": "https://aze.media/wp-content/uploads/2021/03/tonqal_novruz_130219.jpg"
+        }
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "model": "Civic",
+            "make": "Honda",
+            "year": 2021,
+            "color": "Black",
+            "mileage": 5000,
+            "price": 28000,
+            "url": "https://media.motorfuse.com/img.cfm/type/3/img/7463B0414C7EA1A8DB8DDDC4B52B747BC89664AE39F9022358935798"
+        },
+        {
+            "id": 2,
+            "model": "Accord",
+            "make": "Honda",
+            "year": 2022,
+            "color": "Red",
+            "mileage": 2000,
+            "price": 32000,
+            "url": "https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/df6Gl0xSXyu6zMrPmj0f2DBYBMml47QOwjgwrYfO.jpg"
+        },
+        {
+            "id": 3,
+            "model": "Camry",
+            "make": "Toyota",
+            "year": 2020,
+            "color": "White",
+            "mileage": 10000,
+            "price": 25000,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS291sGHA8kdCp_m6yNJdeGxEBfjC-FkKLH35dVOO3n6Q&s"
+        },
+        {
+            "id": 4,
+            "model": "Corvette",
+            "make": "Chevrolet",
+            "year": 2022,
+            "color": "Red",
+            "mileage": 5000,
+            "price": 70000,
+            "url": "https://cdn.motor1.com/images/mgl/y22Pnb/s3/paul-stanley-2022-chevrolet-corvette-convertible.jpg"
+        }
+    ],
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Michael Brown",
+            "phone": "+1234567890",
+            "email": "michael.brown@mail.com",
+            "address": "123 Main Street, City, Country",
+            "notes": "Manager."
+        },
+        {
+            "id": 2,
+            "name": "Emma Johnson",
+            "phone": "+1987654321",
+            "email": "emma.johnson@gmail.com",
+            "address": "456 Elm Avenue, Town, Country",
+            "notes": "Founder."
+        },
+        {
+            "id": 3,
+            "name": "David Wilson",
+            "phone": "+1122334455",
+            "email": "david.wilson@list.ru",
+            "address": "789 Oak Drive, Village, Country",
+            "notes": "Some Random Dude."
+        }
+    ]
+}
