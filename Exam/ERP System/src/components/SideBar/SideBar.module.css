@@ -1,0 +1,43 @@
+.container {
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    position: fixed;
+    justify-content: flex-start;
+    background-color: #FFFFFF;
+}
+
+.iconsContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 28px;
+    margin-top: 20px; 
+    width: 100%; 
+    box-sizing: border-box; 
+}
+
+.iconsContainer li {
+    margin-bottom: 30px;
+    padding: 10px;
+    list-style-type: none;
+    width: 100%; 
+}
+
+.iconsContainer li:hover {
+    background-color: #c1ddf5;
+}
+
+.page:hover {
+    color: #0089FF;
+}
+
+.activeIcon {
+    opacity: 1;
+}
+
+.logo {
+    margin-top: 40px;
+}
