@@ -1,0 +1,68 @@
+import { Circular } from "@/types/Circular";
+
+export const circulars: Circular[] = [
+    {
+        id: 1,
+        title: "Circular Title",
+        from: "Admin, HR",
+        to: "Operations Staffs",
+        type: "HR Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 2,
+        title: "Management Circular for HR Staffs",
+        from: "Admin, HR",
+        to: "HR Staffs",
+        type: "Management Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 3,
+        title: "Circular for Time Maintenance in the Office",
+        from: "Management",
+        to: "All Staff",
+        type: "General Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 4,
+        title: "HR Circular for Operations Department Staff",
+        from: "Admin, HR",
+        to: "Operations Staffs",
+        type: "HR Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 5,
+        title: "HR Circular for Operations Department Staff",
+        from: "Admin, HR",
+        to: "Operations Staffs",
+        type: "HR Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 6,
+        title: "HR Circular for Operations Department Staff",
+        from: "Admin, HR",
+        to: "Operations Staffs",
+        type: "HR Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 7,
+        title: "HR Circular for Operations Department Staff",
+        from: "Admin, HR",
+        to: "Operations Staffs",
+        type: "HR Circular",
+        date: "16/11/2022",
+      },
+      {
+        id: 8,
+        title: "HR Circular for Operations Department Staff",
+        from: "Admin, HR",
+        to: "Operations Staffs",
+        type: "HR Circular",
+        date: "16/11/2022",
+      },
+    ];
