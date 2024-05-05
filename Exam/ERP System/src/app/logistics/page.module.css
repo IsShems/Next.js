@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+.container {
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  border-radius: 20px;
+  font-family: "Nunito";
+  padding-left: 20px;
+  color: black;
+}
+
+.iconsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconsContainer > * {
+  margin-right: 10px;
+}
+
+.charts {
+  margin-top: 10px;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flextitle {
+  display: flex;
+  margin-left: 20px;
+  color: black;
+}
+
+.number {
+  font-family: "Nunito";
+  color: black;
+  margin-left: 5px;
+}
+
+.box1 {
+  width: calc(25% - 15px);
+  height: 130px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.insidebox1 {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.box2 {
+  width: calc(100% - 10px);
+  height: 100px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.insidebox2 {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.buttonmargin {
+  margin-right: 50px;
+  margin-top: 25px;
+}
+
+.box3 {
+  width: calc(100% - 10px);
+  height: 600px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+.pic {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+  padding-top: 5px;
+  overflow: hidden;
+}
+
+.paddingleft {
+  padding-left: 10px;
+  padding-top: 8px;
+}
+
+.lightorange {
+  background-color: #f5d5b1;
+}
+
+.lightblue {
+  background-color: #90caf4;
+}
+
+.lightpurple {
+  background-color: #e2b1f7;
+}
+
+.lightgreen {
+  background-color: #acf5c5;
+}
+
+.green {
+  color: rgb(6, 179, 49);
+}
+
+.red {
+  color: rgb(198, 18, 18);
+}
+
+.paddingleft {
+  padding-left: 10px;
+  padding-top: 8px;
+}
+
+.black {
+  font-family: "Nunito";
+  color: black;
+}
+.grey {
+  font-family: "Nunito";
+  color: rgb(42, 41, 41);
+}
+
+.marginbox2 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.margintitlebox2 {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.flex {
+  display: flex;
+  margin: 20px;
+  justify-content: space-between;
+}
+
+.blue {
+  font-family: "Nunito";
+  color: #0d44b1;
+}

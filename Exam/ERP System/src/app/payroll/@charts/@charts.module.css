@@ -1,0 +1,30 @@
+.box2 {
+  width: calc(100% - 10px);
+  height: 100px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.insidebox2 {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.buttonmargin {
+  margin-right: 50px;
+  margin-top: 25px;
+}
+
+.number {
+  font-family: "Nunito";
+  color: black;
+}
+
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+}

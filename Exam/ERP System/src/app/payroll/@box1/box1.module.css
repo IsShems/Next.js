@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  border-radius: 20px;
+  font-family: "Nunito";
+  padding-left: 20px;
+  color: black;
+}
+
+.number {
+  font-family: "Nunito";
+}
+
+.titleinbox2 {
+  font-family: "Nunito";
+  color: black;
+  margin: 20px;
+}
+
+.pic {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+  padding-top: 10px;
+  padding-left: 2px;
+  overflow: hidden;
+}
+
+.lightorange {
+  background-color: #f5d5b1;
+}
+
+.lightblue {
+  background-color: #90caf4;
+}
+
+.lightpurple {
+  background-color: #e2b1f7;
+}
+
+.lightgreen {
+  background-color: #acf5c5;
+}
+
+.green {
+  color: rgb(6, 179, 49);
+}
+
+.red {
+  color: rgb(198, 18, 18);
+}
+
+.iconsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconsContainer > * {
+  margin-right: 10px;
+}
+
+.charts {
+  margin-top: 10px;
+}
+
+.flexContainer {
+  display: flex;
+}
+
+.box1 {
+  width: calc(25% - 15px);
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  flex-grow: 1;
+  /* justify-content: space-between; */
+  overflow: hidden;
+}
+
+.insidebox1 {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.paddingleft {
+  padding-left: 10px;
+  padding-top: 8px;
+}
+
+.black {
+  font-family: "Nunito";
+  color: black;
+}
